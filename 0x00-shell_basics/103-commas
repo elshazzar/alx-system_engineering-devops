@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ap | sort -t'/' -k1.1,1.1[:alpha:] -k1.2,1.2
+ls -xamp
